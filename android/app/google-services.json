@@ -1,0 +1,199 @@
+{
+  "project_info": {
+    "project_number": "546004452391",
+    "firebase_url": "https://linkpos-8888.firebaseio.com",
+    "project_id": "linkpos-8888",
+    "storage_bucket": "linkpos-8888.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546004452391:android:ed6c6a329d13d586737a02",
+        "android_client_info": {
+          "package_name": "com.leoTech.linkBoss"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "546004452391-r22ptbpdtqghov5fpb87bdhdsfcf5t5o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhcXNq41F4BAB-uO4J435HaVxDDuGBBkQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "546004452391-r22ptbpdtqghov5fpb87bdhdsfcf5t5o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "546004452391-5ebjij1ak73us583b5ai3oiv4jvhk7ge.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.leotech.linkmng"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546004452391:android:3d12cbab556e7031737a02",
+        "android_client_info": {
+          "package_name": "com.leotech.bwcapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "546004452391-r22ptbpdtqghov5fpb87bdhdsfcf5t5o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhcXNq41F4BAB-uO4J435HaVxDDuGBBkQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "546004452391-r22ptbpdtqghov5fpb87bdhdsfcf5t5o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "546004452391-5ebjij1ak73us583b5ai3oiv4jvhk7ge.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.leotech.linkmng"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546004452391:android:9d3f172343d5dc5c737a02",
+        "android_client_info": {
+          "package_name": "com.leotech.bwcdriverapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "546004452391-r22ptbpdtqghov5fpb87bdhdsfcf5t5o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhcXNq41F4BAB-uO4J435HaVxDDuGBBkQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "546004452391-r22ptbpdtqghov5fpb87bdhdsfcf5t5o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "546004452391-5ebjij1ak73us583b5ai3oiv4jvhk7ge.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.leotech.linkmng"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546004452391:android:fecfde99cbfc400f",
+        "android_client_info": {
+          "package_name": "com.leotech.linkorder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "546004452391-r22ptbpdtqghov5fpb87bdhdsfcf5t5o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhcXNq41F4BAB-uO4J435HaVxDDuGBBkQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "546004452391-r22ptbpdtqghov5fpb87bdhdsfcf5t5o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "546004452391-5ebjij1ak73us583b5ai3oiv4jvhk7ge.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.leotech.linkmng"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546004452391:android:473d6da1eb73df22",
+        "android_client_info": {
+          "package_name": "com.leotech.linkpos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "546004452391-i8j7clh5659su3k0jfthotfrcfnpu4uh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.leotech.linkpos",
+            "certificate_hash": "ed5700b82c336d6462c803f5de712fe89f228e54"
+          }
+        },
+        {
+          "client_id": "546004452391-r22ptbpdtqghov5fpb87bdhdsfcf5t5o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhcXNq41F4BAB-uO4J435HaVxDDuGBBkQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "546004452391-r22ptbpdtqghov5fpb87bdhdsfcf5t5o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "546004452391-5ebjij1ak73us583b5ai3oiv4jvhk7ge.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.leotech.linkmng"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
