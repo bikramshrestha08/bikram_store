@@ -43,3 +43,4 @@ fvm flutter run -d chrome
 2. Do all your works in `<your_name>-<function>` branch. Commit the changes regularly with message that introduce what you have done in each commit.
 3. After you finished all your work, rebase your own `<your_name>-<function>` branch with `version-<latest_version>`. Resolve the potential conflicts (discuss with others if needed) and test your function again.
 4. In the description part of your pull requests, use bullet points to briefly describe your changes. Open pull request to version-<latest_version> and ask member from Developer team to review your code.
+"# Bikram-STORE" 
